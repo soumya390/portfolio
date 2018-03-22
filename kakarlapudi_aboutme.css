@@ -1,0 +1,36 @@
+.jumbotron{
+     background-image: url("images/backgroundimage.jpg");
+     font-family: Palatino, 'Palatino Linotype', serif;
+     font-size: 300%;
+     font-stretch: ultra-expanded;
+     color:white;
+     margin:auto;
+}
+section{
+    font-family: Palatino, 'Palatino Linotype', serif;
+    margin:auto;
+    background-color:rgb(218,190,206);
+    color:black;
+}
+h3{
+     background-color:white;
+     color:black;
+     border-color: black;
+     border-width: thick;
+     border:solid;
+}
+dt{
+     font-size: 20%;
+      font-family: Palatino, 'Palatino Linotype', serif;
+}
+
+dt{
+     background-color:grey;
+     color:black;
+}
+
+a{
+    background-color:grey;
+    color:black;
+    width:auto;
+}
